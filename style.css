@@ -4,6 +4,10 @@
     font-family:'Poppins',sans-serif;
     box-sizing: border-box;
  }
+body{
+  background: black;
+    color: white;
+ }
 .header {
     width: 100%;
     height: 100vh;
@@ -13,10 +17,6 @@
     padding: 10px 8%;
     position: relative;
   }
-body{
-  background: black;
-    color: white;
- }
   nav{
    display: flex;
    align-items: center;
